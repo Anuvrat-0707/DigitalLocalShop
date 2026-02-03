@@ -80,7 +80,20 @@ This project aims to revolutionize local shopping by providing real-time invento
 - Priyam Prasad Sahoo
 - Kangkana Barman
 - Agnik Dutta
+- Anuvrat Saxena
 
 ## License
 This project is licensed under the MIT License.
+
+## Project Origin
+This project was originally developed as a collaborative college project.  
+I forked and maintain this repository independently to document the system, understand the complete codebase, and present it as part of my learning and portfolio.
+
+## My Role & Learnings
+- Analyzed the full-stack architecture of the application
+- Understood backend APIs and data flow
+- Reviewed frontend structure and UI logic
+- Improved repository structure, documentation, and clarity
+- Planned scalability and feature improvements from a product perspective
+
 
